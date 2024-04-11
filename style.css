@@ -1,0 +1,27 @@
+*{
+    text-align: center;
+}
+header{
+    position: sticky;
+    top: 0px;
+    /* background-color: aqua; */
+}
+#nav{
+    text-align: center;
+    font-size: 30px;
+    word-spacing: 50px;
+    padding: 10px 0px 10px 0px;
+    background: transparent;
+    backdrop-filter: blur(5px);
+    border-bottom: 5px solid pink;
+}
+a{
+    text-decoration: none;
+}
+pre{
+    font-size: 20px;
+}
+img{
+    width: 100%;
+    height: auto;
+}
