@@ -1,1 +1,2 @@
-# Transparent-Navbar
+Deploy 👉
+https://abhinay-kushwaha.github.io/Transparent-Navbar/
